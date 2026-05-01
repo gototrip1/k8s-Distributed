@@ -1,2 +1,2 @@
-# my_project
-这个仓库是供自己所用,存放一些我的代码
+# k8s-Distributed
+该仓库是用户存放一些分布式的知识点，比如k8s,docker
